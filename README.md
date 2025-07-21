@@ -1,6 +1,8 @@
 # Will the Customer Accept the Coupon?
 An exploration of coupon acceptance rates
 
+**Jupyter notebook:** https://github.com/cheeseinvert/driving-coupon-eda/blob/main/prompt.ipynb
+
 ## What is the problem? 
 This project aims to apply exploritory data analysis, visualizations and probability distributions to understand the distinguishing characteristics between customers who accepted coupons presented while driving versus those who did not. Newly aqcuired techniques of statistical summarization are showcased here to present data-driven findings.
 
